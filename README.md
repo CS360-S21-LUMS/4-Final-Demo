@@ -6,6 +6,7 @@
 Demo document :  group01_Demo_S21.pdf and .doc
 * Contains github link
 * Contains video link
+* Contains trello link / relevant management tool link
 * Contains deployment link
 * Login credentials if required
 * Use Cases ( how many finished, how many left, how many in progress, details)
